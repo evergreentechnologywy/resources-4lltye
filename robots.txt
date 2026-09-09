@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://evergreentechnologywy.github.io/resources-4lltye/sitemap.xml
